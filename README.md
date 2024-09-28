@@ -11,4 +11,14 @@ It's the early stage of the project.
 
 ## Build
 ### Windows 
- - launch GenerateEngineProject and build/run solution.
+ - launch GenerateEngineProject and build/run VS solution.
+## Dependencies
+ - ImGui - GUI
+ - Premake - for building of project
+ - GLFW - window management
+ - FastGLTF - for GLTF import
+ - NLOHMANN_JSON/SIMD_JSON - json utils
+ - STB - image loading
+ - TinyOBJLoaded - for obj load
+SpirvReflect - used for shader reflection, needed for material system
+For using this engine, a Vulkan driver should be installed.
