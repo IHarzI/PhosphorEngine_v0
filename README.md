@@ -21,5 +21,5 @@ It's the early stage of the project.
  - STB - image loading
  - TinyOBJLoaded - for obj load
 ### OTHER
-SpirvReflect - used for shader reflection, needed for material system
-For using this engine, a Vulkan driver should be installed.
+<br /> SpirvReflect - used for shader reflection, needed for material system
+<br /> For using this engine, a Vulkan driver should be installed.
