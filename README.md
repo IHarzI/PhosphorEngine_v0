@@ -20,5 +20,6 @@ It's the early stage of the project.
  - NLOHMANN_JSON/SIMD_JSON - json utils
  - STB - image loading
  - TinyOBJLoaded - for obj load
+### OTHER
 SpirvReflect - used for shader reflection, needed for material system
 For using this engine, a Vulkan driver should be installed.
